@@ -2,7 +2,7 @@
 # Executive Summary
 The dataset contains 54,966 patient records and shows a hospital with fairly balanced activity across conditions, gender, test outcomes, and admission types. Even so, a few patterns stand out. Patients aged 66+ make up the largest share of admissions. Elective admissions are the most common. Cigna contributes the highest total billing amount, and Diabetes generates the most revenue by condition. The average hospital stay is about 15.5 days.
 
-# Key Questions
+# Key Answers
 1. Which condition generates the highest revenue? 
 Diabetes ranks first, producing about ₦236,486,971.10 in billing. It also has one of the strongest average billing levels per case.
 
