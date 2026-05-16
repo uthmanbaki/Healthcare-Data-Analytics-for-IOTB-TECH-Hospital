@@ -1,6 +1,6 @@
 # Healthcare-Data-Analytics-for-IOTB-TECH-Hospital
 # Executive Summary
-The dataset contains 54,966 patient records and shows a hospital with fairly balanced activity across conditions, gender, test outcomes, and admission types. Even so, a few patterns stand out. Patients aged 70+ make up the largest share of admissions. Elective admissions are the most common. Cigna contributes the highest total billing amount, and Diabetes generates the most revenue by condition. The average hospital stay is about 15.5 days.
+The dataset contains 54,966 patient records and shows a hospital with fairly balanced activity across conditions, gender, test outcomes, and admission types. Even so, a few patterns stand out. Patients aged 66+ make up the largest share of admissions. Elective admissions are the most common. Cigna contributes the highest total billing amount, and Diabetes generates the most revenue by condition. The average hospital stay is about 15.5 days.
 
 # Key Questions
 1. Which condition generates the highest revenue? 
